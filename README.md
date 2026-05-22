@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Adarsh%20Gupta&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=CSE&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000428,100:004e92&text=Adarsh%20Gupta&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=CSE&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=700&center=true&vCenter=true&width=600&lines=DSA+in+Java+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80" />
