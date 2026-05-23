@@ -9,8 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=Adarsh7391&label=Profile%20views&color=00FFFF&style=flat-square" alt="Adarsh7391's profile views" />
   </a>
 </p>
-
- <img src="https://raw.githubusercontent.com/Adarsh7391/Interview_Prep_Questions/main/360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg" alt="Developer Cartoon" height="280">
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxlSwueBYMHAbpDKj7EdnbwvH13rp-i5arQg&s" />
 
 ## 📌 About Me
 - I'm a passionate developer who enjoys turning ideas into real-world solutions and meaningful projects.
