@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
+ <img src="https://raw.githubusercontent.com/Adarsh7391/Interview_Prep_Questions/main/360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg" alt="Developer Cartoon" height="280">
 
 ## 📌 About Me
 - I'm a passionate developer who enjoys turning ideas into real-world solutions and meaningful projects.
@@ -22,7 +22,6 @@
 
 ## 🧠 My Focus Areas
 - 🌐 Full Stack Development
-- 🛠️ Open Source Contributions
 - 💡 Real-World Project Building
 - 📚 DSA & Problem Solving
 
