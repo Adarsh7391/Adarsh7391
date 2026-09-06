@@ -25,17 +25,10 @@
 - 📚 DSA & Problem Solving
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/Adarsh7391">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adarsh7391&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Adarsh7391's GitHub Stats" />
-  </a>
   <img src="https://streak-stats.demolab.com/?user=Adarsh7391&theme=radical&hide_border=true&cache_seconds=86400" alt="Adarsh7391's GitHub Streak" width="49%" />
 </p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh7391&theme=radical&radius=10" alt="Adarsh7391's Activity Graph" />
-</p>
-
 
 ## 🛠️ Languages & Tools
 
